@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tpkueh0404@gmail.com**
 
-- 📄 Know about my experiences [![View Resume](https://img.shields.io/badge/View-Resume-blue)](https://docs.google.com/document/d/1jITWz0-vwzyKlS7l7Ziy-RMZJeYIDUt1z5T4BqBjXhA/edit?usp=sharing)
+- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/View-Resume-blue)](https://docs.google.com/document/d/1jITWz0-vwzyKlS7l7Ziy-RMZJeYIDUt1z5T4BqBjXhA/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
