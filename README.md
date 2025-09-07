@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pang Teng</h1>
-<h3 align="center">A 2nd Year Computer Science student majoring in Artificial Intelligence from Malaysia</h3>
+<h3 align="center">A Final Year Computer Science student majoring in Artificial Intelligence from MMU Malaysia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pangtengg" alt="pangtengg" /></a> </p>
 
