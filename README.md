@@ -1,7 +1,7 @@
 
-- 📫 How to reach me **tpkueh0404@gmail.com**
+- 📫 Reach me out @ **tpkueh0404@gmail.com**
 
-- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/View-Resume-blue)](https://docs.google.com/document/d/1jITWz0-vwzyKlS7l7Ziy-RMZJeYIDUt1z5T4BqBjXhA/edit?usp=sharing)
+- 📄 Check out my experiences [![Resume](https://img.shields.io/badge/View-Resume-blue)](https://docs.google.com/document/d/1jITWz0-vwzyKlS7l7Ziy-RMZJeYIDUt1z5T4BqBjXhA/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pangtengg&show_icons=true&locale=en" alt="pangtengg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pangtengg&" alt="pangtengg" /></p>
