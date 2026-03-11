@@ -3,7 +3,7 @@
 - 👾 final year computer science (hons) artificial intelligence student 
 - 📍 based in malaysia 
 - 🌱 interested in artificial intelligence, machine learning, deep learning, computer vision
-- ✨ when there’s a will there’s a way 
+- ✨ there’s a will there’s a way 
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
