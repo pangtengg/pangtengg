@@ -1,14 +1,13 @@
-<h1 align="center">heyy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px">
+<h1 align="center">hello world&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="penguin" height="30px" width="30px" />&nbsp;im&nbsp;pang&nbsp;teng</h1>
 
-<p>👾 final year computer science (hons) artificial intelligence student</p>
-
-<p>🌱 interested in artificial intelligence, machine learning, deep learning, computer vision</p>
-
-<p>✨ when there’s a will there’s a way</p>
+- 👾 final year computer science (hons) artificial intelligence student 
+- 📍 based in malaysia 
+- 🌱 interested in artificial intelligence, machine learning, deep learning, computer vision
+- ✨ when there’s a will there’s a way 
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📊 GitHub Stats & Trophies
+## 📊 github stats 
 <p align="center">
     <a href="https://github.com/pangtengg">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pangtengg&langs_count=8&layout=compact&theme=dark&border_radius=5&cache_seconds=86400" alt="Top Languages" width="49%"/>
@@ -18,7 +17,7 @@
   </a>
 </p>
 
-## 🛠️ Tech Stacks
+## 🛠️ tech stacks
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 4px;" />
@@ -48,7 +47,7 @@
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" height="40" style="margin: 4px;" />
 </p>
 
-## 🔗 Connect with Me
+## 🔗 connect with me
 <p align="left"> <a href="linkedin/kueh-pang-teng" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=blue&color=0a66c2" alt="pang teng's LinkedIn"/></a> <a href="mailto:tpkueh0404@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red&color=c71610" alt="pang teng's Email"/></a> <a href="https://pangtengg.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
 
 <picture>
@@ -56,3 +55,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
