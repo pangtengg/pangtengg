@@ -1,4 +1,4 @@
-<h1 align="center">hello world&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="penguin" height="30px" width="30px" />&nbsp;im&nbsp;pang&nbsp;teng</h1>
+<h3 align="center">hello world&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="penguin" height="30px" width="30px" />&nbsp;im&nbsp;pang&nbsp;teng</h3>
 
 - 👾 final year computer science (hons) artificial intelligence student 
 - 📍 based in malaysia 
