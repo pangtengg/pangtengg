@@ -1,8 +1,9 @@
 <h3 align="center">hello world&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="penguin" height="30px" width="30px" />&nbsp;im&nbsp;pang&nbsp;teng</h3>
 
-- 👾 final year computer science (hons) artificial intelligence student 
+- 👾 computer science (hons) artificial intelligence fresh grad 
 - 📍 based in malaysia 
 - 🌱 interested in artificial intelligence, machine learning, deep learning, computer vision
+- 👩🏻‍💻 intern @shopee (sep - dec 26) @ifast (july - oct 25)
 - ✨ there’s a will there’s a way 
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
